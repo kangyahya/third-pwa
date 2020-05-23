@@ -1,0 +1,22 @@
+{
+  "name": "pwa",
+  "version": "1.0.0",
+  "description": "Second MPWA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangyahya/pwa.git"
+  },
+  "author": "Moh. Yahya <moch.yahya95@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kangyahya/pwa/issues"
+  },
+  "homepage": "https://github.com/kangyahya/pwa#readme",
+  "devDependencies": {
+    "web-push": "^3.4.4"
+  }
+}
